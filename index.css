@@ -4,6 +4,7 @@ body {
     padding: 0;
   }
   
+  
   h1 {
     text-align: center;
     margin: 30px 0;
@@ -21,7 +22,7 @@ body {
   input[type="text"], select {
     padding: 5px;
     font-size: 16px;
-    border: 1px solid #ccc;
+    border: 1px solid #DAA520;
     border-radius: 3px;
   }
   
@@ -54,7 +55,7 @@ body {
   button[type="submit"] {
     padding: 5px 10px;
     font-size: 16px;
-    background-color: #f44336;
+    background-color: #2F4F4F;
     color: white;
     border: none;
     border-radius: 3px;
